@@ -1,0 +1,38 @@
+proto_library(
+    name = "greeter_grpc",
+    srcs = [
+        "greeter.proto",
+    ],
+    visibility = [
+        "//visibility:public",
+    ],
+)
+
+# Python server
+
+load("@rules_proto_grpc//python:defs.bzl", "python_grpclib_library")
+
+python_grpclib_library(
+    name = "greeter_python_grpc",
+    deps = [":greeter_grpc"],
+)
+
+py_binary(
+	name = "server",
+	srcs = ["server.py"],
+	deps = [":greeter_python_grpc"],
+)
+
+py_binary(
+	name = "python_test",
+	srcs = ["python_test.py"],
+)
+
+# C# client
+
+load("@rules_proto_grpc//csharp:defs.bzl", "csharp_grpc_library")
+
+csharp_grpc_library(
+    name = "greeter_csharp_library",
+    deps = [":greeter_grpc"],
+)

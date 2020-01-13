@@ -1,0 +1,17 @@
+/home/pjachowi/code/GrpcGreeterClient/bin/Debug/netcoreapp3.1/GrpcGreeterClient
+/home/pjachowi/code/GrpcGreeterClient/bin/Debug/netcoreapp3.1/GrpcGreeterClient.deps.json
+/home/pjachowi/code/GrpcGreeterClient/bin/Debug/netcoreapp3.1/GrpcGreeterClient.runtimeconfig.json
+/home/pjachowi/code/GrpcGreeterClient/bin/Debug/netcoreapp3.1/GrpcGreeterClient.runtimeconfig.dev.json
+/home/pjachowi/code/GrpcGreeterClient/bin/Debug/netcoreapp3.1/GrpcGreeterClient.dll
+/home/pjachowi/code/GrpcGreeterClient/bin/Debug/netcoreapp3.1/GrpcGreeterClient.pdb
+/home/pjachowi/code/GrpcGreeterClient/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/home/pjachowi/code/GrpcGreeterClient/bin/Debug/netcoreapp3.1/Grpc.Core.Api.dll
+/home/pjachowi/code/GrpcGreeterClient/bin/Debug/netcoreapp3.1/Grpc.Net.Client.dll
+/home/pjachowi/code/GrpcGreeterClient/bin/Debug/netcoreapp3.1/Grpc.Net.Common.dll
+/home/pjachowi/code/GrpcGreeterClient/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/pjachowi/code/GrpcGreeterClient/obj/Debug/netcoreapp3.1/GrpcGreeterClient.csprojAssemblyReference.cache
+/home/pjachowi/code/GrpcGreeterClient/obj/Debug/netcoreapp3.1/GrpcGreeterClient.AssemblyInfoInputs.cache
+/home/pjachowi/code/GrpcGreeterClient/obj/Debug/netcoreapp3.1/GrpcGreeterClient.AssemblyInfo.cs
+/home/pjachowi/code/GrpcGreeterClient/obj/Debug/netcoreapp3.1/GrpcGreeterClient.csproj.CopyComplete
+/home/pjachowi/code/GrpcGreeterClient/obj/Debug/netcoreapp3.1/GrpcGreeterClient.dll
+/home/pjachowi/code/GrpcGreeterClient/obj/Debug/netcoreapp3.1/GrpcGreeterClient.pdb
